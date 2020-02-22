@@ -1,0 +1,7 @@
+How to install
+
+Unzip "upload.zip" package in an empty directory on your web server where you want to install the script.
+
+Go to http://www.yourdomain.com/install.php and follow instructions.
+
+Follow step by step wizard to install
